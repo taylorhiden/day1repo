@@ -1,1 +1,19 @@
 Hello world!
+<!DOCTYPE html>
+<head>
+	<title>Taylor Hiden</title>
+	<style>
+    body {
+			text-align: center;
+			background: url("http://i.imgur.com/BFlCEqC.jpg");
+			background-size: cover;
+			background-position: center;
+			color: white;
+			font-family: arial;
+}
+<body>
+<img src="http://i.imgur.com/rONkBx9.jpg" width="300">
+<p>Hi! I'm Taylor, a Washington, DC-based PR guru. Say hello!</p>
+<input type-"email" placeholder="Your email">
+<input type="submit">
+</body>
